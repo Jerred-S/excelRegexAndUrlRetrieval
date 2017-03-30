@@ -18,3 +18,17 @@ Once the addin is installed (or run-once), use the regexReplace and getDataAtUrl
 =regexReplace(getDataAtUrl("https://www.glerl.noaa.gov//metdata/mil/"),"[\u0001-~]*<strong>Air Temperature[\u0001-~]+?>(.+?)&.*<\/td><[\u0001-~]*","$1")
 ```
 and see what the temperature is in Milwaukee.
+
+#Build
+
+## getDataAtUrl
+
+TBD
+
+## UnitTests
+
+TBD
+
+## Dependencies
+
+TBD
