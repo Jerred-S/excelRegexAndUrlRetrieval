@@ -9,7 +9,8 @@ This is an Excel Addin that retrieves text from a URL and can parse it with regu
 2. getDataAtUrl, which retrieves a file at a given URL
 The two functions together provide a means to retrive and parse out infromation from a web server. See the [Use](#Use) section below for an example.
 
-# Install
+# Instal
+**This will not work until issue #4 is resolved**
 You probably shouldn't use this yet until development is further along, but if you're adventerous, find one of the .xll files in [`getDataAtUrl/bin/Release`](getDataAtUrl/bin/Release) and install it per <http://exceldna.codeplex.com/wikipage?title=Installing%20your%20add-in&referringTitle=Documentation>
 
 # Use
