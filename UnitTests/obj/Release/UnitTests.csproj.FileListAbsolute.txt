@@ -1,0 +1,13 @@
+C:\Users\amand\Documents\Visual Studio 2015\Projects\excelRegexAndUrlRetrieval\UnitTests\bin\Release\getDataAtUrl-AddIn.dna
+C:\Users\amand\Documents\Visual Studio 2015\Projects\excelRegexAndUrlRetrieval\UnitTests\bin\Release\UnitTests.dll
+C:\Users\amand\Documents\Visual Studio 2015\Projects\excelRegexAndUrlRetrieval\UnitTests\bin\Release\UnitTests.pdb
+C:\Users\amand\Documents\Visual Studio 2015\Projects\excelRegexAndUrlRetrieval\UnitTests\bin\Release\getDataAtUrl.dll
+C:\Users\amand\Documents\Visual Studio 2015\Projects\excelRegexAndUrlRetrieval\UnitTests\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\amand\Documents\Visual Studio 2015\Projects\excelRegexAndUrlRetrieval\UnitTests\bin\Release\ExcelDna.IntelliSense.dll
+C:\Users\amand\Documents\Visual Studio 2015\Projects\excelRegexAndUrlRetrieval\UnitTests\bin\Release\UIAComWrapper.dll
+C:\Users\amand\Documents\Visual Studio 2015\Projects\excelRegexAndUrlRetrieval\UnitTests\bin\Release\Interop.UIAutomationClient.dll
+C:\Users\amand\Documents\Visual Studio 2015\Projects\excelRegexAndUrlRetrieval\UnitTests\bin\Release\getDataAtUrl.pdb
+C:\Users\amand\Documents\Visual Studio 2015\Projects\excelRegexAndUrlRetrieval\UnitTests\bin\Release\UIAComWrapper.pdb
+C:\Users\amand\Documents\Visual Studio 2015\Projects\excelRegexAndUrlRetrieval\UnitTests\obj\Release\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\amand\Documents\Visual Studio 2015\Projects\excelRegexAndUrlRetrieval\UnitTests\obj\Release\UnitTests.dll
+C:\Users\amand\Documents\Visual Studio 2015\Projects\excelRegexAndUrlRetrieval\UnitTests\obj\Release\UnitTests.pdb
