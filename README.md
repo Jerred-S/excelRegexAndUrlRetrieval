@@ -19,16 +19,14 @@ Once the addin is installed (or run-once), use the regexReplace and getDataAtUrl
 ```
 and see what the temperature is in Milwaukee.
 
-#Build
+# Build and development
+This section documents how to build and develop for the project
 
 ## getDataAtUrl
-
 TBD
 
 ## UnitTests
-
 TBD
 
 ## Dependencies
-
 TBD
