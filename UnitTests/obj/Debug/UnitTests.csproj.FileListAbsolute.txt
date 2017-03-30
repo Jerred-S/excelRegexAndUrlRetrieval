@@ -1,0 +1,13 @@
+C:\Users\amand\Documents\Visual Studio 2015\Projects\getDataAtUrl\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\amand\Documents\Visual Studio 2015\Projects\getDataAtUrl\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\amand\Documents\Visual Studio 2015\Projects\getDataAtUrl\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\amand\Documents\Visual Studio 2015\Projects\getDataAtUrl\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\amand\Documents\Visual Studio 2015\Projects\getDataAtUrl\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\amand\Documents\Visual Studio 2015\Projects\getDataAtUrl\UnitTests\obj\Debug\UnitTests.pdb
+C:\Users\amand\Documents\Visual Studio 2015\Projects\getDataAtUrl\UnitTests\bin\Debug\getDataAtUrl-AddIn.dna
+C:\Users\amand\Documents\Visual Studio 2015\Projects\getDataAtUrl\UnitTests\bin\Debug\getDataAtUrl.dll
+C:\Users\amand\Documents\Visual Studio 2015\Projects\getDataAtUrl\UnitTests\bin\Debug\ExcelDna.IntelliSense.dll
+C:\Users\amand\Documents\Visual Studio 2015\Projects\getDataAtUrl\UnitTests\bin\Debug\UIAComWrapper.dll
+C:\Users\amand\Documents\Visual Studio 2015\Projects\getDataAtUrl\UnitTests\bin\Debug\Interop.UIAutomationClient.dll
+C:\Users\amand\Documents\Visual Studio 2015\Projects\getDataAtUrl\UnitTests\bin\Debug\getDataAtUrl.pdb
+C:\Users\amand\Documents\Visual Studio 2015\Projects\getDataAtUrl\UnitTests\bin\Debug\UIAComWrapper.pdb

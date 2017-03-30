@@ -1,0 +1,10 @@
+c:\users\amand\documents\visual studio 2015\Projects\getDataAtUrl\getDataAtUrl\bin\Debug\getDataAtUrl-AddIn.dna
+c:\users\amand\documents\visual studio 2015\Projects\getDataAtUrl\getDataAtUrl\bin\Debug\getDataAtUrl.dll
+c:\users\amand\documents\visual studio 2015\Projects\getDataAtUrl\getDataAtUrl\bin\Debug\getDataAtUrl.pdb
+c:\users\amand\documents\visual studio 2015\Projects\getDataAtUrl\getDataAtUrl\obj\Debug\getDataAtUrl.dll
+c:\users\amand\documents\visual studio 2015\Projects\getDataAtUrl\getDataAtUrl\obj\Debug\getDataAtUrl.pdb
+c:\users\amand\documents\visual studio 2015\Projects\getDataAtUrl\getDataAtUrl\bin\Debug\ExcelDna.IntelliSense.dll
+c:\users\amand\documents\visual studio 2015\Projects\getDataAtUrl\getDataAtUrl\bin\Debug\Interop.UIAutomationClient.dll
+c:\users\amand\documents\visual studio 2015\Projects\getDataAtUrl\getDataAtUrl\bin\Debug\UIAComWrapper.dll
+c:\users\amand\documents\visual studio 2015\Projects\getDataAtUrl\getDataAtUrl\bin\Debug\UIAComWrapper.pdb
+C:\Users\amand\Documents\Visual Studio 2015\Projects\getDataAtUrl\getDataAtUrl\obj\Debug\getDataAtUrl.csprojResolveAssemblyReference.cache
