@@ -1,5 +1,7 @@
 <DnaLibrary Name="getDataAtUrl Add-In" RuntimeVersion="v4.0">
   <ExternalLibrary Path="getDataAtUrl.dll" LoadFromBytes="true" Pack="true" />
+
+  <Reference Path="ExcelDna.IntelliSense.dll" Pack="true" />
   
   <!-- 
        The RuntimeVersion attribute above allows two settings:
