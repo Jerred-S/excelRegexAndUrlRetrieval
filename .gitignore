@@ -5,3 +5,4 @@ UnitTests/bin/Release/*
 UnitTests/bin/Debug/*
 getDataAtUrl/obj/*
 UnitTests/obj/*
+getDataAtUrl/bin/Debug/*
