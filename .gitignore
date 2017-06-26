@@ -2,3 +2,6 @@ getDataAtUrl/obj/Release/getDataAtUrl.csprojResolveAssemblyReference.cache
 getDataAtUrl/obj/Release/getDataAtUrl.dll
 getDataAtUrl/obj/Release/getDataAtUrl.pdb
 UnitTests/bin/Release/*
+UnitTests/bin/Debug/*
+getDataAtUrl/obj/*
+UnitTests/obj/*
